@@ -20,7 +20,7 @@ https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XD
 
 - Different states in the US show very divergent default rates, showing that the regional performance of the loans is not homogenous.
 
-- Borrowers who defaulted generally came from lower income levels. This holds across almost all employment types.
+- Borrowers who defaulted generally came from lower income levels. This holds across almost all employment types. They also show generally higher levels of APR and lower Prosper Scores (for loans past 2009).
 
 - Connectsion between the APR and defaults or income could not be established.
 
@@ -29,4 +29,4 @@ https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XD
 
 ## Key Insights for Presentation
 
-- The focus for the explanatory presentation is to show certain characteristics of the defaulted loans. First, the default rate development over time shows that the economic environment seems to be a key link to the loan performance. Second, the charactersitics of defaulted loans show that certain regions in the US were performing much worse and that borrowers who defaulted generally had lower income levels.
+- The focus for the explanatory presentation is to show certain characteristics of the defaulted loans. First, the default rate development over time shows that the economic environment seems to be a key link to the loan performance. Second, the charactersitics of defaulted loans show that certain regions in the US were performing much worse and that borrowers who defaulted generally had lower income levels. The APR and Prosper Score also seem indicative about if a loan defaulted or not (for post-2009 data).
